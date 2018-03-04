@@ -1,7 +1,7 @@
 class LargeNumber:
 	# author : irwan dianto
 	# fb: https://www.facebook.com/irwandianto
-	# license : GNU GPL
+
 	func _init():
 		pass
 	func bootstrapNum():
