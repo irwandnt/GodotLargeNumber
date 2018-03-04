@@ -2,7 +2,6 @@ extends Control
 
 	# author : irwan dianto
 	# fb: https://www.facebook.com/irwandianto
-	# license : GNU GPL
 onready var opt=get_node("opt")
 var bignum
 func _ready():
