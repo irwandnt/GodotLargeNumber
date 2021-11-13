@@ -1,4 +1,4 @@
-# GodotLargeNumber
+# GodotLargeNumber for godot 2.x
 Large number for clicker game 
 
 example
